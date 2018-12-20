@@ -3,6 +3,7 @@
 <generatorConfiguration>
 
 <!-- ==================== -->
+<!-- 增加的增加的增加的增加的增加的 -->
 
 	<classPathEntry
 		location="E:/oracle/help/mysql/mysql-connector-java-5.1.18-bin.jar" />
